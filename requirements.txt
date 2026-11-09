@@ -5,3 +5,4 @@ requests
 sqlalchemy
 pillow
 plotly
+python-dotenv
